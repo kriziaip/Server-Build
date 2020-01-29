@@ -61,3 +61,8 @@ If ($LegalNoticeText -like $DesiredValue){
     "Non-Compliant"
 }
 }
+
+#This is a test for Network adapter name
+Function check-NIC {
+
+}
